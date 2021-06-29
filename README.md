@@ -11,12 +11,24 @@ I don't have a certificate yet.
 No information about achievements.
 
 *Areas I'm Developer or Staff:*
-- Discord Official Partner Server Moderator
+- Discord Official Partner Server Moderator 
+<img src="https://img.shields.io/badge/CCD%237088-Discord%20Official%20Partner%20Moderator-blue"/>
 
 **Contact Addresses**
 -
 *My Business Mail:* No Data
 *My Official Web Site:* No Data
+
+**Technologies I Use**
+-
+<div align="center">
+<img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+<img alt="Sass" align="center" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+<img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img alt="css3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+<img alt="python" align="center" src="https://img.shields.io/badge/-Python-264de4?style=flat-square&logo=css3&logoColor=white"/>
+</div>
+
 
 **GitHub Stats**
 -
