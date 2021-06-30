@@ -31,7 +31,7 @@ I'm @superccd aka Çınar Civan. I am a developer. I work in Web development, Da
 <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img alt="css3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
 <img alt="python" align="center" src="https://img.shields.io/badge/-Python-264de4?style=flat-square&logo=python3&logoColor=white"/>
-<img alt="python" align="center" src="https://img.shields.io/badge/-C#-264de4?style=flat-square&logo=csharp3&logoColor=white"/>
+<img alt="python" align="center" src="https://img.shields.io/badge/-C Sharp-264de4?style=flat-square&logo=csharp3&logoColor=white"/>
 </div>
 
 
