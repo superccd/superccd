@@ -5,11 +5,9 @@ I'm @superccd aka Çınar Civan. I am a developer. I work in Web development, Da
 
 **My Achievements, Certificates and Areas I'm Developer/Staff**
 -
-*My Certificates:*
-I don't have a certificate yet.
+*My Certificates:* I don't have a certificate yet.
 
-*My Achievements:*
-No information about achievements.
+*My Achievements:* No information about achievements.
 
 *Areas I'm Developer or Staff:*
 - Discord Official Partner Server Moderator 
@@ -18,11 +16,8 @@ No information about achievements.
 **Contact Addresses**
 -
 *My Business Mail:* No Data
-<br
 *My Official Web Site:* No Data
-    <br>
 *Discord:* CCD#7088
-<br>
 <p align="left"> <img align="center" src="https://discord.c99.nl/widget/theme-2/640543103102484485.png"/></p>
 
 **Technologies I Use**
