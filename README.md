@@ -19,8 +19,6 @@ I'm @superccd aka Çınar Civan. I am a developer. I work in Web development, Da
 *My Official Web Site:* No Data
 *Discord:* CCD#7088
 
-<p align="left"> <img align="center" src="https://discord.c99.nl/widget/theme-2/640543103102484485.png"/></p>
-
 **Technologies I Use**
 -
 <div align="center">
