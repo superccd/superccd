@@ -18,8 +18,11 @@ No information about achievements.
 **Contact Addresses**
 -
 *My Business Mail:* No Data
+<br
 *My Official Web Site:* No Data
+    <br>
 *Discord:* CCD#7088
+<br>
 <p align="left"> <img align="center" src="https://discord.c99.nl/widget/theme-2/640543103102484485.png"/></p>
 
 **Technologies I Use**
