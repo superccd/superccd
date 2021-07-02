@@ -15,9 +15,9 @@ I'm @superccd aka Çınar Civan. I am a developer. I work in Web development, Da
 
 **Contact Addresses**
 -
-*My Business Mail:* No Data
+*My Business Mail:* ccd@ccdpy.cf
 
-*My Official Web Site:* No Data
+*My Official Web Site:* [ccdpy.cf](https://ccdpy.cf/)
 
 *Discord:* CCD#7088
 
