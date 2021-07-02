@@ -38,8 +38,8 @@ I'm @superccd aka Çınar Civan. I am a developer. I work in Web development, Da
 **GitHub Stats**
 -
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superccd&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=superccd&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515%22%20alt=%22hyprexbtw%27s%20stats" width="%100" height="150px">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superccd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superccd&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="%100" height="100%">
 </div>
 
